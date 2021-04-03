@@ -38,4 +38,4 @@
     - [汉典](https://www.zdic.net/)
     - [52shici](https://www.52shici.com/)
     - [51testing](http://www.51testing.com/)
-    - [重庆市物联网协会](http://www.cqiota.org/))
+    - [重庆市物联网协会](http://www.cqiota.org/)
