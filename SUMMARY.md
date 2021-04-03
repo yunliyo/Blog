@@ -25,9 +25,9 @@
     - [词谱](https://sou-yun.cn/QueryCiTune.aspx)
     - [曲谱](https://sou-yun.cn/QueryQuTune.aspx)
   - 书单
-    - [诗词](采集/书单/01诗词.md)
-    - [技术](采集/书单/02技术.md)
-    - [其它](采集/书单/03其它.md)
+    - [诗词](诗词工具/书单/01诗词.md)
+    - [技术](诗词工具/书单/02技术.md)
+    - [其它](诗词工具/书单/03其它.md)
 - 馀事做诗人
   - YUNLI
     - [我的主页](https://yunlihub.top/)
