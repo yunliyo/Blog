@@ -27,6 +27,11 @@
 
 - [目录](SUMMARY.md)
 - [README](README.md)
+- 关于
+  - [我的主页](https://yunlihub.top/)
+  - [关于我](关于/Resume.md)
+  - [小伙伴们](关于/Friends.md)
+  - [捕捉方式](关于/Contact.md)
 - 我心写兮
   - [猗兰集](我心写兮/01猗兰集.md)
   - [猗兰集增补集](我心写兮/02猗兰集增补集.md)
@@ -57,10 +62,7 @@
 - Wiki
   - [Linux命令手册](https://www.linuxcool.com/)
   - [21天搞定MySQL](Wiki/21天搞定MySQL.md)
-  - [Gitの食用方法](Wiki/Gitの食用方法.md)
-  - [SVNの食用方法](Wiki/SVNの食用方法.md)
-  - [Markdownの食用方法](Wiki/Markdownの食用方法.md)
-- 关于
-  - [我的主页](https://yunlihub.top/)
-  - [关于我](关于/Resume.md)
-  - [小伙伴](关于/Friends.md)
+  - [Git食用方法](Wiki/Gitの食用方法.md)
+  - [SVN食用方法](Wiki/SVNの食用方法.md)
+  - [Markdown食用方法](Wiki/Markdownの食用方法.md)
+  - [Aurora食用指南](https://chanshiyu.com/#/post/41)
