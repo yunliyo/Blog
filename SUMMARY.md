@@ -2,7 +2,6 @@
 
 - [README](README.md)
 - 关于
-  - [我的主页](https://yunlihub.top/)
   - [关于我](关于/Resume.md)
   - [小伙伴们](关于/Friends.md)
   - [捕捉方式](关于/Contact.md)
