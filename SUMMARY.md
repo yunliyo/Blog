@@ -39,3 +39,5 @@
   - [SVN食用方法](Wiki/SVNの食用方法.md)
   - [Markdown食用方法](Wiki/Markdownの食用方法.md)
   - [Aurora食用指南](https://chanshiyu.com/#/post/41)
+- Bookmarks
+  - [浏览器书签](Bookmarks/Bookmarks.md)

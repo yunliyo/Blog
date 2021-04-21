@@ -10,11 +10,12 @@
 
 | 目录 | 描述 |
 | :---: | :--- |
+| 关于 | 在这里可以快速了解我 |
 | 我心写兮 | 诗词 & 文章，包括且不限于个人诗词、读书笔记、碎碎念等 |
 | 诗词工具 | 诗词基础知识，包括且不限于格律基础、韵书、词谱等 |
 | 搜索秘笈 | 关于Google、Bing、Yahoo、百度、搜狗的搜索语法 |
 | Wiki | 收藏夹，这里是对我工作和学习有用的博客和资料 |
-| 关于我 | 在这里可以快速了解我 |
+| Bookmarks | 浏览器书签 |
 
 ## 声明
 
@@ -65,3 +66,5 @@
   - [SVN食用方法](Wiki/SVNの食用方法.md)
   - [Markdown食用方法](Wiki/Markdownの食用方法.md)
   - [Aurora食用指南](https://chanshiyu.com/#/post/41)
+- Bookmarks
+  - [浏览器书签](Bookmarks/Bookmarks.md)
