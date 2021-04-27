@@ -4,7 +4,7 @@
 
 ## 个人简介
 
-我，韵漓，女，<s>18岁</s>，独立学人，物联网工程师，热爱诗词书画。
+我，韵漓，女，<s>18岁</s>，独立学人，物联网全沾工程师，热爱诗词书画，有个人诗词集《猗兰集》。
 
 ## 目录
 
@@ -25,6 +25,7 @@
 
 ## 目录
 
+- [README](README.md)
 - 关于
   - [关于我](关于/About.md)
   - [小伙伴们](关于/Friends.md)
@@ -56,9 +57,11 @@
   - [Yahoo搜索语法](搜索引擎语法/Yahoo搜索语法.md)
   - [搜狗搜索语法](搜索引擎语法/搜狗搜索语法.md)
 - Wiki
-  - [浏览器书签](Wiki/Bookmarks.md)
-  - [Linux命令手册](https://www.linuxcool.com/)
-  - [21天搞定MySQL](Wiki/21天搞定MySQL.md)
   - [Git食用方法](Wiki/Gitの食用方法.md)
   - [SVN食用方法](Wiki/SVNの食用方法.md)
   - [Markdown食用方法](Wiki/Markdownの食用方法.md)
+  - [浏览器书签](Wiki/Bookmarks.md)
+  - [Linux命令手册](https://www.linuxcool.com/)
+  - [MySQL](https://www.runoob.com/mysql/mysql-tutorial.html)
+  - [Docker](https://www.runoob.com/docker/docker-tutorial.html)
+  - [正则表达式](https://www.runoob.com/regexp/regexp-tutorial.html)
