@@ -35,7 +35,6 @@
   - [Git食用方法](Wiki/Gitの食用方法.md)
   - [SVN食用方法](Wiki/SVNの食用方法.md)
   - [Markdown食用方法](Wiki/Markdownの食用方法.md)
-  - [浏览器书签](Wiki/Bookmarks.md)
   - [Linux命令手册](https://www.linuxcool.com/)
   - [MySQL](https://www.runoob.com/mysql/mysql-tutorial.html)
   - [Docker](https://www.runoob.com/docker/docker-tutorial.html)
