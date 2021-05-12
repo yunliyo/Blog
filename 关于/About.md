@@ -5,7 +5,7 @@
 > 笔名：李丹  
 > 字若冰，号寒蓠阁主、秋兰君  
 > 英文名：Mark Andrea Lee  
-> 网名：韵漓  
+> 网名：韵漓（Yunli）  
 
 有光就读诗，无光就做梦。
 
@@ -31,8 +31,23 @@
 
 ## 联系我
 
+**壹**
+
 - bilibili：<a href="https://space.bilibili.com/82783756/" target="_blank"> @韵漓</a>  
-- GitHub：<a href="https://github.com/yunliyo" target="_blank"> @韵漓</a>  
+- 微博：<a href="https://weibo.com/u/5762807917" target="_blank"> @韵漓</a>  
+- 知乎：<a href="https://www.zhihu.com/people/yunlihub" target="_blank"> @韵漓</a>  
+- GitHub：<a href="https://github.com/yunliyo" target="_blank"> @韵漓</a>
+
+**贰**
+
+- Facebook：<a href="https://www.facebook.com/yunlihub" target="_blank"> @Yunli</a>  
+- Twitter：<a href="https://twitter.com/yunlihub" target="_blank"> @Yunli</a>  
+- ニコニコ：<a href="https://www.nicovideo.jp/user/118052085" target="_blank"> @Yunli</a>  
+- YouTube：<a href="https://www.youtube.com/channel/UCGzV1Vhf4SFcaPbbqWfwG8g" target="_blank"> @Yunli</a>  
+- Pixiv：<a href="https://www.pixiv.net/users/65694519" target="_blank"> @Yunli</a>
+
+**叁**
+
 - Mail：<a href="mailto:yunlihub@gmail.com" target="_blank"> yunlihub@gmail.com</a>  
 - Phone：13896074726  
 - Website：<a href="https://yunlihub.com/" target="_blank"> yunlihub.com</a>  
