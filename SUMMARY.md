@@ -5,38 +5,57 @@
   - [关于我](关于/About.md)
   - [小伙伴们](关于/Friends.md)
   - [简历](关于/Resume.md)
-- 我心写兮
-  - [猗兰集](我心写兮/01猗兰集.md)
-  - [猗兰集增补集](我心写兮/02猗兰集增补集.md)
-  - [闲言碎语](我心写兮/闲言碎语.md)
-  - [关于尊古](我心写兮/01尊古.md)
-  - [我为什么写诗？](我心写兮/02我为什么写诗？.md)
-  - [怎样写诗才能不拼凑？](我心写兮/03怎样写诗才能不拼凑？.md)
-  - [对于诗词的境界，我的一些观点](我心写兮/04对于诗词的境界，我的一些观点.md)
-  - [关于现代诗](我心写兮/05关于现代诗.md)
-- 诗词工具
-  - [格律基础](诗词工具/01格律基础.md)
-  - [对联基础](诗词工具/02对联基础.md) 
-  - [平水韵](https://sou-yun.cn/QR.aspx)
-  - [词林正韵](https://sou-yun.cn/QR.aspx?ci=*)
-  - [中原音韵](https://sou-yun.cn/zyqr.aspx)
-  - [词谱](https://sou-yun.cn/QueryCiTune.aspx)
-  - [曲谱](https://sou-yun.cn/QueryQuTune.aspx)
-  - [诗词书单](诗词工具/01诗词.md)
-  - [技术书单](诗词工具/02技术.md)
-  - [其它书籍](诗词工具/03其它.md)
-- 搜索引擎语法
-  - [常用语法](搜索引擎语法/常用语法.md)
-  - [Google搜索语法](搜索引擎语法/Google搜索语法.md)
-  - [Bing搜索语法](搜索引擎语法/Bing搜索语法.md)
-  - [百度搜索语法](搜索引擎语法/百度搜索语法.md)
-  - [Yahoo搜索语法](搜索引擎语法/Yahoo搜索语法.md)
-  - [搜狗搜索语法](搜索引擎语法/搜狗搜索语法.md)
-- Wiki
-  - [Git食用方法](Wiki/Gitの食用方法.md)
-  - [SVN食用方法](Wiki/SVNの食用方法.md)
-  - [Markdown食用方法](Wiki/Markdownの食用方法.md)
-  - [Linux命令手册](https://www.linuxcool.com/)
-  - [MySQL](https://www.runoob.com/mysql/mysql-tutorial.html)
-  - [Docker](https://www.runoob.com/docker/docker-tutorial.html)
-  - [正则表达式](https://www.runoob.com/regexp/regexp-tutorial.html)
+- 韵事
+  - 诗词
+    - [猗兰集](韵事/诗词/01猗兰集.md)
+    - [猗兰集增补集](韵事/诗词/02猗兰集增补集.md)
+  - 读书笔记
+    - [关于尊古](韵事/读书笔记/01尊古.md)
+    - [我为什么写诗？](韵事/读书笔记/02我为什么写诗？.md)
+    - [怎样写诗才能不拼凑？](韵事/读书笔记/03怎样写诗才能不拼凑？.md)
+    - [对于诗词的境界，我的一些观点](韵事/读书笔记/04对于诗词的境界，我的一些观点.md)
+    - [关于现代诗](韵事/读书笔记/05关于现代诗.md)
+  - 碎碎念
+    - [闲言碎语](韵事/碎碎念/闲言碎语.md)
+- 清事
+  - 中道管理
+    - []()
+  - 社会科学
+    - []()
+- 馀事
+  - 诗词基础
+    - [格律基础](馀事/诗词基础/格律基础.md)
+    - [楹联基础](馀事/诗词基础/楹联基础.md)
+    - [平水韵](https://sou-yun.cn/QR.aspx)
+    - [词林正韵](https://sou-yun.cn/QR.aspx?ci=*)
+    - [中原音韵](https://sou-yun.cn/zyqr.aspx)
+    - [词谱](https://sou-yun.cn/QueryCiTune.aspx)
+    - [曲谱](https://sou-yun.cn/QueryQuTune.aspx)
+  - 搜索秘笈
+    - [常用语法](馀事/搜索秘笈/常用语法.md)
+    - [Google搜索语法](馀事/搜索秘笈/Google搜索语法.md)
+    - [Bing搜索语法](馀事/搜索秘笈/Bing搜索语法.md)
+    - [Baidu搜索语法](馀事/搜索秘笈/百度搜索语法.md)
+    - [Yahoo搜索语法](馀事/搜索秘笈/Yahoo搜索语法.md)
+    - [Sougou搜索语法](馀事/搜索秘笈/搜狗搜索语法.md)
+  - 优秀文章
+    - []()
+  - wiki文档
+    - [Gitの食用方法](馀事/wiki文档/Gitの食用方法.md)
+    - [SVNの食用方法](馀事/wiki文档/SVNの食用方法.md)
+    - [Markdownの食用方法](馀事/wiki文档/Markdownの食用方法.md)
+    - [Linux命令大全](https://www.linuxcool.com/)
+    - [MySQL](https://www.runoob.com/mysql/mysql-tutorial.html)
+    - [Docker](https://www.runoob.com/docker/docker-tutorial.html)
+    - [正则表达式](https://www.runoob.com/regexp/regexp-tutorial.html)
+  - 书单推荐
+    - [诗词](馀事/书单推荐/诗词.md)
+    - [技术](馀事/书单推荐/技术.md)
+    - [其它](馀事/书单推荐/其它.md)
+  - 有趣的项目
+    - []()
+  - 好玩的工具
+    - []()
+- 焚书
+  - [DevOps简介](焚书/DevOps简介.md)
+  - [万物皆可DevOps](焚书/万物皆可DevOps.md)
