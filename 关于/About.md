@@ -14,24 +14,17 @@
 > **info：**  
 > ~~女，18岁，温柔可爱的小姐姐~~  
 > ~~重度抑郁、轻度自闭、社交恐惧~~  
-> 热爱诗词书画、先秦诸子百家、ACGN  
-> 独立学人，物联网全沾工程师，DevOps实践者  
+> 独立学人，主要涉猎诗词书画、诸子百家，爱好ACGN  
 > 有个人诗词集《猗兰集》  
 
 前事寻幽远，小隐成孤绝。
 
-> **Project：**  
-> 负责功能测试、接口测试、性能测试、安全测试
-> + 搜韵网（Web & APP）
-> 网址：sou-yun. cn
-> + 诗词吾爱网（Web & APP）
-  网址：52shici. com
-> + 汉典网（Web）
-  网址：zdic. net
-> + 西窗烛（APP）
-  网址：xcz. im
-> + ……
-  
+> **skill learning：**  
+> 迪沃普斯（DevOps）  
+> ICT（Information and Communication Technologies）  
+> **IoT**（Internet of things）
+> 元宇宙（Metaverse）  
+
 ## 联系我
 
 - 主页：yunlihub. com
