@@ -22,7 +22,7 @@
 > **skill learning：**  
 > 迪沃普斯（DevOps）  
 > ICT（Information and Communication Technologies）  
-> **IoT**（Internet of things）
+> **IoT**（Internet of things）  
 > 元宇宙（Metaverse）  
 
 ## 联系我
