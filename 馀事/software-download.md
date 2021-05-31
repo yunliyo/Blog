@@ -4,11 +4,13 @@
 
 ## 纯净系统 
 不知道“MSDN.我告诉你”有多少个窟。  
-[站点1](https://www.xitongku.com/)
-[站点2](http://www.msdn1.cn/)
-[站点3](https://www.msdn3.com/)
-[站点4](https://msdn.itellyou.cn/)
-[站点5](https://www.wogaosuni.com/)
+注意甄别。  
+[站点1](https://www.xitongku.com/)  
+[站点2](http://www.msdn1.cn/)  
+[站点3](https://www.msdn3.com/)  
+[站点4](https://msdn.itellyou.cn/)  
+[站点5](https://www.wogaosuni.com/)  
+[站点6](https://next.itellyou.cn/)  
 
 ## Linux系统 
 [CentOS](https://www.centos.org/)  
