@@ -82,7 +82,9 @@
 [Hexo](https://hexo.io/)  
 [Hugo](https://gohugo.io/)  
 [Chanzhi](https://www.zsite.com/)  
-/
+[Ghost](https://ghost.org/)  
+[Gridea](https://gridea.dev/)  
+/  
 [Aurora主题](https://github.com/chanshiyucx/aurora)  
 [vdoing主题](https://github.com/xugaoyi/vuepress-theme-vdoing)  
 
