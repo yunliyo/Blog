@@ -1,9 +1,8 @@
 # Table of contents
 
 - [README](README.md)
-- 关于
-  - [关于我](关于/About.md)
-  - [小伙伴们](关于/Friends.md)
+- [关于我](关于/About.md)
+- [小伙伴们](关于/Friends.md)
 - 韵事
   - [猗兰集](韵事/01猗兰集.md)
   - [猗兰集增补集](韵事/01猗兰集增补集.md)

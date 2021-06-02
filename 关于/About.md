@@ -28,6 +28,12 @@
 ## 联系我
 
 - 主页：yunlihub. com
-- 邮箱：yunlihub@gmail.com
+- bilibili：[韻灕](https://space.bilibili.com/82783756)
+- GitHub：[韵漓](https://github.com/yunliyo)
+- QQ：1502164
+- VX：1598712209
+- Group：请先添加好友，通过后邀请进群
+- 个人邮箱：yunlihub@gmail.com
 - 商务合作：lidan@yunlihub.com
-- 地址：中国 · 重庆
+- 地址：Chongqing · China
+- 邮编：400015
