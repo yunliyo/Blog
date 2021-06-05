@@ -1,7 +1,6 @@
 # Table of contents
 
 - [README](README.md)
-- [来撩我呀](关于/About.md)
 - 韵事
   - [猗兰集](韵事/01猗兰集.md)
   - [猗兰集增补集](韵事/01猗兰集增补集.md)
@@ -42,5 +41,6 @@
   - [廖雪峰的教程](https://www.liaoxuefeng.com/)
   - [菜鸟教程](https://www.runoob.com/)
   - [W3school](https://www.w3school.com.cn/)
+- [来撩我呀](关于/About.md)
 - [友链](关于/Friends.md)
 - [投喂](关于/donate.md)
