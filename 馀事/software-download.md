@@ -8,9 +8,9 @@
 [站点1](https://www.xitongku.com/)  
 [站点2](http://www.msdn1.cn/)  
 [站点3](https://www.msdn3.com/)  
-[站点4](https://msdn.itellyou.cn/)  
+[站点4](https://msdn.itellyou.cn/)(已确认√)  
 [站点5](https://www.wogaosuni.com/)  
-[站点6](https://next.itellyou.cn/)  
+[站点6](https://next.itellyou.cn/)(已确认√)  
 
 ## Linux系统 
 [CentOS](https://www.centos.org/)  

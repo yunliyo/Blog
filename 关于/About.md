@@ -29,6 +29,5 @@
 ## 联系我
 
 - 主页：yunlihub. com
-- bilibili：[@韻灕](https://space.bilibili.com/82783756)
 - 个人邮箱：yunlihub@gmail.com
 - 商务合作：lidan@yunlihub.com
