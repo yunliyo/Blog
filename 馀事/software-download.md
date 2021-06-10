@@ -12,6 +12,9 @@
 [站点5](https://www.wogaosuni.com/)  
 [站点6](https://next.itellyou.cn/)(已确认√)  
 
+另，  
+[小鱼儿站点](https://www.yrxitong.com/)  
+
 ## Linux系统 
 [CentOS](https://www.centos.org/)  
 [CentOS 7](http://mirrors.aliyun.com/centos/7.8.2003/isos/x86_64/CentOS-7-x86_64-DVD-2003.iso)  
@@ -101,11 +104,9 @@
 ## 好用工具 
 [Telegram](https://telegram.org/)  
 [IDM](https://www.internetdownloadmanager.com/)  
+[Xdown](https://xdown.org/)  
+[Motrix](https://motrix.app/)  
+[FDM](https://www.freedownloadmanager.org/)  
+[迅雷](https://www.xunlei.com/)  
 [CCleaner](https://www.ccleaner.com/)  
 [XMind](https://www.xmind.cn/)  
-[WPS](https://www.wps.com/)  
-[OBS Studio](https://obsproject.com/)  
-[直播姬PC](https://live.bilibili.com/liveHime)  
-[直播姬APP](https://link.bilibili.com/p/eden/download)  
-[美图秀秀](https://xiuxiu.meitu.com/)  
-[万兴神剪手](https://miao.wondershare.cn/)  
