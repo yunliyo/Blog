@@ -1,33 +1,17 @@
-# 关于我
+# About
 
 馀事做诗人。
 
-> **id：**  
-> 李** ~~（陇西李氏）~~  
-> 笔名：李丹  
-> 字若冰，号寒蓠阁主、秋兰君  
-> 英文名：Mark Andrea Lee  
-> 外文名：Mac Aryana Lee  
-> 网名：韵漓（Yunli）  
+> Info：  
+> - ~~女，18岁。~~
+> - 重度抑郁、轻度自闭、社交恐惧
+> - 独立学人，主要涉猎诗词书画、诸子百家、爱好ACGN
+> - 有个人诗词集《猗兰集》
+> - 正在学习DevOps、ICT、IoT、Metaverse
 
-有光就读诗，无光就做梦。
+文以明道，健以立身。  
 
-> **info：**  
-> ~~女，18岁，温柔可爱的小姐姐~~  
-> ~~重度抑郁、轻度自闭、社交恐惧~~  
-> 独立学人，主要涉猎诗词书画、诸子百家，爱好ACGN  
-> 有个人诗词集《猗兰集》  
-
-前事寻幽远，小隐成孤绝。
-
-> **skill：**  
-> 迪沃普斯（DevOps）  
-> ICT（Information and Communication Technologies）  
-> **IoT**（Internet of things）  
-> 元宇宙（Metaverse）  
-
-## 联系我
-
-- 主页：yunlihub. com
-- 个人邮箱：yunlihub@gmail.com
-- 商务合作：lidan@yunlihub.com
+> Contact：  
+> - 主页：yunlihub .com
+> - 个人邮箱：yunlihub@gmail.com
+> - 商务合作：lidan@yunlihub.com
