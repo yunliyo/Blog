@@ -59,7 +59,7 @@
   - [Gitの食用方法](馀事/01Gitの食用方法.md)
   - [SVNの食用方法](馀事/02SVNの食用方法.md)
   - [Markdownの食用方法](馀事/03Markdownの食用方法.md)
-  - [必看！10个Git仓库](馀事/每个开发人员都应该知道的10个GitHub仓库.md)
+  - [必看！10个Git仓库](馀事/10个GitHub仓库.md)
   - [Linux命令大全](https://www.linuxcool.com/)
   - [C语言](http://c.biancheng.net/)
   - [廖雪峰的教程](https://www.liaoxuefeng.com/)
