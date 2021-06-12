@@ -54,6 +54,9 @@
 [夜神模拟器](https://www.yeshen.com/)  
 [GT](https://gt.qq.com/)  
 
+[Xcode](https://developer.apple.com/xcode/)  
+[黑雷ios模拟器](https://www.heilei.com/)  
+
 [Selenium](https://www.selenium.dev/)  
 [Chrome-WebDriver](https://chromedriver.chromium.org/)  
 [Firefox-WebDriver](https://developer.mozilla.org/en-US/docs/Web/WebDriver)  
