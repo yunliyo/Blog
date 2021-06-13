@@ -93,8 +93,15 @@
 [Ghost](https://ghost.org/)  
 [Gridea](https://gridea.dev/)  
 /  
-[Aurora主题](https://github.com/chanshiyucx/aurora)  
-[vdoing主题](https://github.com/xugaoyi/vuepress-theme-vdoing)  
+主题  
+[Aurora](https://github.com/chanshiyucx/aurora)  
+[vdoing](https://github.com/xugaoyi/vuepress-theme-vdoing) 
+/  
+评论系统  
+[Disqus](https://disqus.com/)  
+[Gitalk](https://gitalk.github.io/)  
+[Valine](https://valine.js.org/)  
+[Waline](https://waline.js.org/)  
 
 ## 浏览器 
 [Chrome](https://www.google.com/chrome/)  
