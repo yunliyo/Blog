@@ -95,7 +95,7 @@
 /  
 主题  
 [Aurora](https://github.com/chanshiyucx/aurora)  
-[vdoing](https://github.com/xugaoyi/vuepress-theme-vdoing) 
+[vdoing](https://github.com/xugaoyi/vuepress-theme-vdoing)  
 /  
 评论系统  
 [Disqus](https://disqus.com/)  
