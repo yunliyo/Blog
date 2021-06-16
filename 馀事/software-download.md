@@ -19,6 +19,15 @@
 [CentOS](https://www.centos.org/)  
 [CentOS 7](http://mirrors.aliyun.com/centos/7.8.2003/isos/x86_64/CentOS-7-x86_64-DVD-2003.iso)  
 
+## 浏览器扩展
+[Greasemonkey](https://www.greasespot.net/)  
+[Tampermonkey](https://www.tampermonkey.net/)  
+[Violentmonkey](https://violentmonkey.github.io/)  
+[Chrome扩展](https://chrome.google.com/webstore/)  
+[Firefox扩展](https://addons.mozilla.org/)  
+[Edge扩展](https://microsoftedge.microsoft.com/)  
+[Opera扩展](https://addons.opera.com/)  
+
 ## 开发编程 
 ★代码编辑★  
 [VScode](https://code.visualstudio.com/)（首选）  
