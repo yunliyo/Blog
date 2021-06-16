@@ -23,6 +23,12 @@
 - [Quora](https://www.quora.com/) | 美版知乎
 - [腾讯云+社区](https://cloud.tencent.com/developer) | 
 - [阿里云栖社区](https://developer.aliyun.com/) | 
+- [博客园](https://www.cnblogs.com/) | 早期开发者社区
+- [CSDN](https://www.csdn.net/) | 优质开发、测试文章
+- [Github](https://github.com/) | 全球最大同性交友网站
+- [OSchina](https://www.oschina.net/) | 国内最大同性交友网站
+- [知乎](https://www.zhihu.com/) | 问答社区
+- [简书](https://www.jianshu.com/) | 
 - [51testing](http://www.51testing.com/html/index.html) | 老牌软件测试论坛
 - [Testhome](http://testerhome.com/) | 早期软件测试论坛
 - [Testwo](https://www.testwo.com/) | 测试知识传播
