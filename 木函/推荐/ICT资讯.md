@@ -43,6 +43,7 @@
 
 - [CQ-IoT](http://www.cqiota.org/) | 重庆物联网产业协会
 - [Zpark-IoT](https://www.ziota.org/) | 中关村物联网产业联盟
+- [物联网学报](http://www.wlwxb.com.cn/) | 工信部主管
 - [物联网智库](http://www.iot101.com/#/home) | 资源整合型智能产业服务平台
 - [CnBeta](https://www.cnbeta.com/) | 中文业界资讯站
 - [中关村在线](https://www.zol.com.cn/) | 大中华区专业IT网站
