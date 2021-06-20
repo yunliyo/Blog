@@ -1,6 +1,4 @@
-## 韵漓
-
-[![Author](https://img.shields.io/badge/author-yunli-blue.svg?style=flat-square)](https://yunlihub.com) [![Email](https://img.shields.io/badge/Email%20me-yunlihub@gmail.com-green.svg?style=flat-square)](mailto:yunlihub@gmail.com)
+# README
 
 ## 个人简介
 
@@ -9,7 +7,7 @@
 ## 目录
 
 | ❤️目录❤️ | 💜描述💜 |
-| :---: | :--- |
+| :------: | :------ |
 | 韵事 | 文章作品，包括且不限于个人诗词、读书笔记、碎碎念等 |
 | 清事 | 世间冷眼不须论，争知我，风月一闲人 |
 | 雅事 | 主流搜索引擎的搜索语法 |
