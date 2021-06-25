@@ -59,3 +59,8 @@
 - [126Mail](https://mail.126.com/) | 
 - [Yeah.net](https://www.yeah.net/) | 
 - [网易免费企业邮箱](https://ym.163.com/) | 
+- [Tom邮箱](https://mail.tom.com/) | 
+- [搜狐邮箱](https://mail.sohu.com/) | 
+- [21CN](https://mail.21cn.com/) | 
+- [Yahoo.Mail](https://mail.yahoo.com) | 
+- [Yandex.Mail](https://mail.yandex.com/) | 
