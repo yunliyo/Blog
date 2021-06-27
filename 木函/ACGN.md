@@ -54,13 +54,7 @@
 - [Gmail](https://mail.google.com/) | 
 - [Outlook](https://outlook.live.com/) | Outlook & Hotmail
 - [QQ邮箱](https://mail.qq.com/) | 
-- [腾讯免费企业邮箱](https://exmail.qq.com/) | 
 - [163Mail](https://mail.163.com/) | 
 - [126Mail](https://mail.126.com/) | 
 - [Yeah.net](https://www.yeah.net/) | 
-- [网易免费企业邮箱](https://ym.163.com/) | 
-- [Tom邮箱](https://mail.tom.com/) | 
-- [搜狐邮箱](https://mail.sohu.com/) | 
-- [21CN](https://mail.21cn.com/) | 
-- [Yahoo.Mail](https://mail.yahoo.com) | 
-- [Yandex.Mail](https://mail.yandex.com/) | 
+- [免费企业邮箱](https://ym.163.com/) | 
