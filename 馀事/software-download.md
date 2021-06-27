@@ -100,7 +100,7 @@
 [Vssue](https://vssue.js.org/)  
 [Chanzhi](https://www.zsite.com/)  
 [Ghost](https://ghost.org/)  
-[Gridea](https://gridea.dev/)  
+[Gitbook](https://www.gitbook.com/)  
 /  
 主题  
 [Aurora](https://github.com/chanshiyucx/aurora)  

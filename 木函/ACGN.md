@@ -44,9 +44,6 @@
 - [Pinterest](https://www.pinterest.com/) | 图片资源
 - [StackOverflow](https://stackoverflow.com/) | IT问答网站
 - [看国外](https://www.kanguowai.com/) | 
-- [来看下](https://www.laikanxia.com/) | 
-- [Egouz](https://www.egouz.com/) | 
-- [World8](http://www.world68.com/) | 
 - [PayPal](https://www.paypal.com/hk/home) | 移动支付
 
 ## Mail

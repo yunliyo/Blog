@@ -8,6 +8,14 @@
 - [CNTV](https://cntvnow.com/)
 - [央视频](https://www.yangshipin.cn/)
 
+# 第一
+
+- [中公教育](https://www.offcn.com/) | 公务员考试网
+- [壹心理](https://www.xinli001.com/) | 世界和我爱着你
+- [ISTQB](https://www.istqb.org/) | 国际软件测试工程师认证
+- [华为ICT认证](https://www.ictxuetang.com/cict/pc/examTicket) | 唯一覆盖ICT全技术领域的认证体系
+- [维权骑士](https://www.rightknights.com/) | 保护知识产权
+
 ## 热榜
 
 - [今日热榜](https://tophub.today/)
@@ -36,8 +44,6 @@
 - [istester](http://istester.com/) | IDO老徐大佬
 - [Wetest](https://wetest.qq.com/) | 腾讯质量开放平台
 - [IT大咖说](https://www.itdks.com/) | 
-- [墨滴](https://www.mdnice.com/) | 看颜值的文章社区
-- [码力全开](https://www.maliquankai.com/) | 独立开发者的聚集地
 
 ## News
 
