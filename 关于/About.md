@@ -1,29 +1,23 @@
 # About
 
-馀事做诗人。  
+## 馀事做诗人
 
 > **Info：**  
 > ~~女，18岁~~  
 > 抑郁、自闭、社恐，至今单身，喜欢熬夜，不习惯处于有噪音的环境，特别内向  
 > 独立学人，主要涉猎诗词书画、诸子百家、爱好ACGN  
 > 有个人诗词集《猗兰集》  
-
-前事寻幽远，小隐成孤绝。  
-
 > **Project：**  
 > 搜韵网（sou-yun.cn）  
 > 诗词吾爱网（52shici.com）  
 > 西窗烛（xcz.im）  
-
-文以明道，健以立身。  
-
 > **Contact：**  
 > 主页：yunlihub.com  
 > 邮箱：yunlihub@gmail.com  
 
-***
+## 求投喂哇
 
-**要请我喝奶茶吗 ⁄(⁄⁄•⁄ω⁄•⁄⁄)⁄**  
+要请我喝奶茶吗 ⁄(⁄⁄•⁄ω⁄•⁄⁄)⁄  
 
 如果您喜欢这里，感觉对你有帮助，并且有多余的软妹币的话，不妨投喂一杯奶茶喔~  
 
@@ -31,13 +25,9 @@
 
 <(▰˘◡˘▰)> 谢谢老板~  
 
-***
-
 ## 小伙伴们
 
-友链申请：[yunlihub@gmail.com](mailto:yunlihub@gmail.com)  
-
-排名不分先后
+友链申请：[yunlihub@gmail.com](mailto:yunlihub@gmail.com)
 
 | . | . | . | . |
 | :------: | :------: | :------: | :------: |
@@ -50,3 +40,4 @@
 | <a href="https://www.52shici.com/space.php?mem_id=2146" target="_blank">缺月正西窗</a> | <a href="https://www.52shici.com/space.php?mem_id=30339" target="_blank">有司</a> | <a href="https://www.52shici.com/space.php?mem_id=38710" target="_blank">留取残荷</a> | <a href="https://www.52shici.com/space.php?mem_id=1216" target="_blank">华夏戎狄</a> |
 | <a href="https://www.52shici.com/space.php?mem_id=30837" target="_blank">沐清公子</a> | <a href="https://www.52shici.com/space.php?mem_id=41069" target="_blank">巴渝离骚</a> | <a href="https://weibo.com/u/3733371012" target="_blank">楚凌岚</a> | <a href="https://weibo.com/u/5043873554" target="_blank">喻恩泰</a> |
 | <a href="hhttps://www.52shici.com/space.php?mem_id=34250" target="_blank">省吾斋主人</a> |
+（排名不分先后）
