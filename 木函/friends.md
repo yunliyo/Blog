@@ -1,33 +1,6 @@
-# About
+# 小伙伴们
 
-## 馀事做诗人
-
-**Info：**  
-~~女，18岁~~，独立学人，主要涉猎诗词书画、诸子百家，爱好ACGN。有个人诗词集《猗兰集》。  
-
-**Project：**  
-搜韵网（sou-yun.cn）  
-诗词吾爱网（52shici.com）  
-西窗烛APP（xcz.im）  
-
-**Contact：**  
-主页：yunlihub.com  
-邮箱：yunlihub@gmail.com  
-
-## 求投喂哇
-
-要请我喝奶茶吗 ⁄(⁄⁄•⁄ω⁄•⁄⁄)⁄  
-
-如果您喜欢这里，感觉对你有帮助，并且有多余的软妹币的话，不妨投喂一杯奶茶喔~  
-
-支付宝：yunlihub@gmail.com  
-
-<(▰˘◡˘▰)> 谢谢老板~  
-
-## 小伙伴们
-
-友链申请：[yunlihub@gmail.com](mailto:yunlihub@gmail.com)
-| . | . | . | . |
+| 小伙伴们 | . | . | . |
 | :------: | :------: | :------: | :------: |
 | <a href="http://istester.com/" target="_blank">istester</a> | <a href="https://www.yunyoujun.cn/" target="_blank">云游君</a> | <a href="https://chanshiyu.com/" target="_blank">蝉时雨</a> | <a href="https://www.caixiaojing.com/" target="_blank">Blokura</a>
 | <a href="https://skk.moe/" target="_blank">Sukka</a> | <a href="https://www.carrotchou.com/" target="_blank">Carrotchou</a> | <a href="https://ixk.me/" target="_blank">Otstar</a> | <a href="http://www.rjafx.com/" target="_blank">Rjafx</a>
