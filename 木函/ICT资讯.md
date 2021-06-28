@@ -35,7 +35,9 @@
 - [CSDN](https://www.csdn.net/) | 优质开发、测试文章
 - [Github](https://github.com/) | 全球最大同性交友网站
 - [OSchina](https://www.oschina.net/) | 国内最大同性交友网站
-- [知乎](https://www.zhihu.com/) | 问答社区
+- [51CTO](https://www.51cto.com/) | 
+- [InfoQ](https://www.infoq.cn/) | 
+- [知乎](https://www.zhihu.com/) | 
 - [简书](https://www.jianshu.com/) | 
 - [51testing](http://www.51testing.com/html/index.html) | 老牌软件测试论坛
 - [Testhome](http://testerhome.com/) | 早期软件测试论坛
