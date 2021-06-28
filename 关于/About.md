@@ -2,18 +2,17 @@
 
 ## 馀事做诗人
 
-> **Info：**  
-> ~~女，18岁~~  
-> 抑郁、自闭、社恐，至今单身，喜欢熬夜，不习惯处于有噪音的环境，特别内向  
-> 独立学人，主要涉猎诗词书画、诸子百家、爱好ACGN  
-> 有个人诗词集《猗兰集》  
-> **Project：**  
-> 搜韵网（sou-yun.cn）  
-> 诗词吾爱网（52shici.com）  
-> 西窗烛（xcz.im）  
-> **Contact：**  
-> 主页：yunlihub.com  
-> 邮箱：yunlihub@gmail.com  
+**Info：**  
+~~女，18岁~~，独立学人，主要涉猎诗词书画、诸子百家，爱好ACGN。有个人诗词集《猗兰集》。  
+
+**Project：**  
+搜韵网（sou-yun.cn）  
+诗词吾爱网（52shici.com）  
+西窗烛APP（xcz.im）  
+
+**Contact：**  
+主页：yunlihub.com  
+邮箱：yunlihub@gmail.com  
 
 ## 求投喂哇
 
@@ -28,7 +27,6 @@
 ## 小伙伴们
 
 友链申请：[yunlihub@gmail.com](mailto:yunlihub@gmail.com)
-
 | . | . | . | . |
 | :------: | :------: | :------: | :------: |
 | <a href="http://istester.com/" target="_blank">istester</a> | <a href="https://www.yunyoujun.cn/" target="_blank">云游君</a> | <a href="https://chanshiyu.com/" target="_blank">蝉时雨</a> | <a href="https://www.caixiaojing.com/" target="_blank">Blokura</a>
