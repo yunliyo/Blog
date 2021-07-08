@@ -22,33 +22,24 @@
 [CentOS 7](http://mirrors.aliyun.com/centos/7.8.2003/isos/x86_64/CentOS-7-x86_64-DVD-2003.iso)  
 
 ## 浏览器扩展
-[油小猴](https://www.youxiaohou.com/)  
+[油小猴插件](https://www.youxiaohou.com/)  
 [Greasemonkey](https://www.greasespot.net/)  
 [Tampermonkey](https://www.tampermonkey.net/)  
 [Violentmonkey](https://violentmonkey.github.io/)  
-[Chrome扩展](https://chrome.google.com/webstore/)  
-[Firefox扩展](https://addons.mozilla.org/)  
-[Edge扩展](https://microsoftedge.microsoft.com/)  
-[Opera扩展](https://addons.opera.com/)  
 
 ## 开发编程 
-★代码编辑★  
 [VScode](https://code.visualstudio.com/)（首选）  
 [Sublime](https://www.sublimetext.com/)  
 [Notepad++](https://notepad-plus-plus.org/)  
 [Vim](https://www.vim.org/)  
-★IDE★  
-[Java-JDK](https://www.oracle.com/java/technologies/javase-downloads.html)  
-[Python](https://www.python.org/downloads/)  
-[VisualStudio](https://visualstudio.microsoft.com/)  
-[Eclipse](https://www.eclipse.org/downloads/packages/)  
-[Pycharm](https://www.jetbrains.com/pycharm/)  
 
 ## 软件测试 
 [VMware](https://www.vmware.com/cn.html)  
 [Xshell](https://www.netsarang.com/zh/xshell/)  
 [Xftp](https://www.netsarang.com/zh/xftp/)  
 [Navicat](https://www.navicat.com.cn/)  
+
+[XMind](https://www.xmind.cn/)  
 
 [Zentao](https://www.zentao.net/)  
 [Git](https://git-scm.com/)  
@@ -67,7 +58,6 @@
 [GT](https://gt.qq.com/)  
 
 [Xcode](https://developer.apple.com/xcode/)  
-[黑雷ios模拟器](https://www.heilei.com/)  
 
 [Selenium](https://www.selenium.dev/)  
 [Chrome-WebDriver](https://chromedriver.chromium.org/)  
@@ -78,20 +68,18 @@
 
 ## 建站工具 
 [宝塔面板](https://www.bt.cn/)  
+[小皮面板](https://www.xp.cn/)  
 [Xampp](https://www.apachefriends.org/)  
 [WampServer](https://www.wampserver.com/)  
-[phpstudy](https://www.xp.cn/)  
 [Tomcat](https://tomcat.apache.org/)  
 [MySQL](https://www.mysql.com/)  
 [Apache](https://www.apache.org/)  
 [Nginx](http://nginx.org/)  
 [PHP](https://www.php.net/)  
 
-## BBS 
+## Blog 
 [Discuz!X](https://www.discuz.net/)  
 [Discuz!Q](https://discuz.chat/)  
-
-## Blog 
 [WordPress](https://wordpress.com/)  
 [Typecho](http://typecho.org/)  
 [Gridea](https://gridea.dev/)  
@@ -123,12 +111,9 @@
 [IE11](https://www.microsoft.com/en-us/download/details.aspx?id=41628)  
 [Safari](https://www.apple.com/safari/)  
 
-## 好用工具 
-[Telegram](https://telegram.org/)  
+## 下载器 
 [IDM](https://www.internetdownloadmanager.com/)  
+[NDM](https://www.neatdownloadmanager.com/)  
 [Xdown](https://xdown.org/)  
 [Motrix](https://motrix.app/)  
 [FDM](https://www.freedownloadmanager.org/)  
-[迅雷](https://www.xunlei.com/)  
-[CCleaner](https://www.ccleaner.com/)  
-[XMind](https://www.xmind.cn/)  
