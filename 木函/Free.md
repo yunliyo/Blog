@@ -10,7 +10,7 @@
 - [Google Play](https://play.google.com/) | Google play
 - [APKpure](https://apkpure.com/cn/) | 可替代谷歌商店
 - [Aptoide](https://aptoide.com/) | 知名安卓应用商店
-- [胡萝卜周](https://www.carrotchou.com/) | 
+- [Carrotchou](https://www.carrotchou.com/) | 
 
 ## 在线工具
 
@@ -39,6 +39,5 @@
 
 ## 其它免费
 
-- [robots.txt](http://www.robotstxt.org/) | 禁止蜘蛛
 - [Free for dev](https://free-for.dev/) | N/A
 - [又拍云联盟](https://www.upyun.com/league) | 开发者计划
