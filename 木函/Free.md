@@ -23,6 +23,7 @@
 - [OSChina在线工具](https://tool.oschina.net/) | 
 - [jb51在线工具](http://tools.jb51.net/) | 
 - [爱资料工具箱](http://www.toolnb.com/) | 
+- [16进制到文本字符串](http://www.bejson.com/convert/ox2str/) | 
 
 ## 图床 & CDN 
 
