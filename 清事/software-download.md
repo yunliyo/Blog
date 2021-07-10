@@ -21,6 +21,9 @@
 [CentOS](https://www.centos.org/)  
 [CentOS 7](http://mirrors.aliyun.com/centos/7.8.2003/isos/x86_64/CentOS-7-x86_64-DVD-2003.iso)  
 
+## 单片机
+[Keil](https://www.keil.com/) | MCU：单片机
+
 ## 浏览器扩展
 [油小猴插件](https://www.youxiaohou.com/)  
 [Greasemonkey](https://www.greasespot.net/)  
