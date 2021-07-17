@@ -41,3 +41,4 @@
 - 馀事
   - [网络收藏夹](馀事/网络收藏夹.md)
   - [Gitbook制作步骤](https://zhuanlan.zhihu.com/p/34946169)
+  - [Gitbook安装详解](https://blog.csdn.net/qq_43528771/article/details/107949010)
