@@ -3,7 +3,12 @@
     "author": "Yunli",
     "description": "有光就读诗，无光就做梦",
     "language": "zh-hans",
-
+    "links": {
+        "sidebar": {
+            "Home": "https://www.yunlihub.com",
+            "Blog": "https://www.yunlihub.top"
+        }
+    },
     "plugins": [
         "back-to-top-button",
         "expandable-chapters",
@@ -21,12 +26,18 @@
         "emphasize",
         "-sharing",
         "sharing-plus",
+        "toc",
         "tbfed-pagefooter",
         "lightbox",
         "flexible-alerts",
-        "pageview-count"
+        "pageview-count",
+        "hide-element"
     ],
     "pluginsConfig": {
+        "toc": {
+            "addClass": true,
+            "className": "toc"
+        },
         "github": {
             "url": "https://github.com/yunliyo"
         },
@@ -34,6 +45,9 @@
             "copyright": "Yunli",
             "modify_label": "文件更新时间：",
             "modify_format": "YYYY-MM-DD HH:mm:ss"
+        },
+        "hide-element": {
+            "elements": ["a.gitbook-link[href='https://www.gitbook.com']"]
         }
 
     }

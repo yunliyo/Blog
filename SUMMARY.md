@@ -19,6 +19,11 @@
     - [浅谈五古的创作](韵事/诗文习得/11浅谈五古的创作.md)
     - [關於“熟滑”的一點反思](韵事/诗文习得/12關於“熟滑”的一點反思.md)
     - [万古不磨意，中流自在心](韵事/诗文习得/13万古不磨意，中流自在心.md)
+    - [浅论读书](韵事/诗文习得/14浅论读书.md)
+    - [学诗笔记](韵事/诗文习得/15学诗笔记.md)
+    - [一些诗注](韵事/诗文习得/16一些诗注.md)
+    - [臆语](韵事/诗文习得/17臆语.md)
+    - [杂识六条](韵事/诗文习得/18杂识六条.md)
   - 其它
     - [闲言碎语](韵事/其它/闲言碎语.md)
 - 清事
@@ -30,6 +35,10 @@
     - [SVNの食用方法](清事/技术/SVNの食用方法.md)
     - [Linux命令大全](https://www.linuxcool.com/)
     - [华为云](https://www.huaweicloud.com/)
+    - [LiteOS_Studio](https://liteos.gitee.io/liteos_studio/)
+    - [BearPi](https://gitee.com/bearpi/)
+    - [BearPi-HM_Nano](https://gitee.com/bearpi/bearpi-hm_nano)
+    - [RaspberryPi](https://www.raspberrypi.org/)
   - 搜索引擎的技巧
     - [搜索引擎常用语法](清事/搜索引擎的技巧/常用语法.md)
     - [Google搜索语法](清事/搜索引擎的技巧/Google搜索语法.md)

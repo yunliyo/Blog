@@ -3,7 +3,7 @@
 ## 声明
 
 - 这不是一个开源项目，本项目不接受任何开源要求。
-- 仓库内所有资源文件，禁止任何公众号、自媒体、开发者进行任何形式的转载、发布、搬运。
+- 禁止任何公众号、自媒体、开发者进行任何形式的转载、发布、搬运。
 - 您必须在下载后的24小时内从计算机或手机中完全删除以上内容。
 - **韵事** 板块为原创文章，禁止以任何形式的复制、转发。
 - **版权所有，违法必究**
@@ -12,20 +12,20 @@
 
 [![Author](https://img.shields.io/badge/author-Yunli-blue.svg?style=flat-square)](https://www.yunlihub.com) [![Email](https://img.shields.io/badge/Email%20me-yunlihub@gmail.com-green.svg?style=flat-square)](mailto:yunlihub@gmail.com)
 
-前事寻幽远，小隐成孤绝。
-
 文以明道，健以立身。
+
+前事寻幽远，小隐成孤绝。
 
 ## 自述
 
 - **个人简介**
-  > 网名韵漓，自号寒蓠阁主、秋兰君  
-  > 女，18岁 ~~（可能是个可爱的男孩子）~~  
-  > 独立学人，主要涉猎诗词书画  
-  > 作品：个人诗词集《猗兰集》  
-  > 爱好：诸子百家、ACGN  
-  > 技能：Linux、单片机、VScode、AT指令、Git、CI/CD、DevOps等。  
-  > 座右铭：有光就读诗，无光就做梦  
+  > 网名韵漓，自号寒蓠阁主、秋兰君；  
+  > 女，18岁 ~~（可能是个可爱的男孩子）~~ ；  
+  > 独立学人，主要涉猎诗词书画；  
+  > 作品：个人诗词集《猗兰集》；  
+  > 爱好：诸子百家、ACGN；  
+  > 技能：Linux、单片机、VScode、AT指令、Git、CI/CD、DevOps等；  
+  > 座右铭：有光就读诗，无光就做梦；  
   > 特点：不善言辞，喜欢独处，内心戏比较丰富，比较脆弱，比较固执。
 
 - **项目**
@@ -59,6 +59,11 @@
     - [浅谈五古的创作](韵事/诗文习得/11浅谈五古的创作.md)
     - [關於“熟滑”的一點反思](韵事/诗文习得/12關於“熟滑”的一點反思.md)
     - [万古不磨意，中流自在心](韵事/诗文习得/13万古不磨意，中流自在心.md)
+    - [浅论读书](韵事/诗文习得/14浅论读书.md)
+    - [学诗笔记](韵事/诗文习得/15学诗笔记.md)
+    - [一些诗注](韵事/诗文习得/16一些诗注.md)
+    - [臆语](韵事/诗文习得/17臆语.md)
+    - [杂识六条](韵事/诗文习得/18杂识六条.md)
   - 其它
     - [闲言碎语](韵事/其它/闲言碎语.md)
 - 清事
@@ -70,6 +75,10 @@
     - [SVNの食用方法](清事/技术/SVNの食用方法.md)
     - [Linux命令大全](https://www.linuxcool.com/)
     - [华为云](https://www.huaweicloud.com/)
+    - [LiteOS_Studio](https://liteos.gitee.io/liteos_studio/)
+    - [BearPi](https://gitee.com/bearpi/)
+    - [BearPi-HM_Nano](https://gitee.com/bearpi/bearpi-hm_nano)
+    - [RaspberryPi](https://www.raspberrypi.org/)
   - 搜索引擎的技巧
     - [搜索引擎常用语法](清事/搜索引擎的技巧/常用语法.md)
     - [Google搜索语法](清事/搜索引擎的技巧/Google搜索语法.md)
