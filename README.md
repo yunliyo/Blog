@@ -8,7 +8,7 @@
 - **韵事** 板块为原创文章，禁止以任何形式的复制、转发。
 - **版权所有，违法必究**
 
-## 韵漓
+## 自述
 
 [![Author](https://img.shields.io/badge/author-Yunli-blue.svg?style=flat-square)](https://www.yunlihub.com) [![Email](https://img.shields.io/badge/Email%20me-yunlihub@gmail.com-green.svg?style=flat-square)](mailto:yunlihub@gmail.com)
 
@@ -16,12 +16,10 @@
 
 前事寻幽远，小隐成孤绝。
 
-## 自述
-
 - **个人简介**
   > 网名韵漓，自号寒蓠阁主、秋兰君；  
   > 女，18岁 ~~（可能是个可爱的男孩子）~~ ；  
-  > 独立学人，主要涉猎诗词书画；  
+  > 独立学人，主要涉猎诗词书画；
   > 作品：个人诗词集《猗兰集》；  
   > 爱好：诸子百家、ACGN；  
   > 技能：Linux、单片机、VScode、AT指令、Git、CI/CD、DevOps等；  
