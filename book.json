@@ -5,8 +5,7 @@
     "language": "zh-hans",
     "links": {
         "sidebar": {
-            "Home": "https://www.yunlihub.com",
-            "Blog": "https://www.yunlihub.top"
+            "Home": "https://www.yunlihub.com"
         }
     },
     "plugins": [
