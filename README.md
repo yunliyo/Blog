@@ -85,7 +85,10 @@
     - [百度搜索语法](清事/搜索引擎的技巧/百度搜索语法.md)
     - [搜狗搜索语法](清事/搜索引擎的技巧/搜狗搜索语法.md)
 - 馀事
-  - [网络收藏夹](馀事/网络收藏夹.md)
-  - [Gitbook制作步骤](https://zhuanlan.zhihu.com/p/34946169)
-  - [Gitbook安装详解](https://blog.csdn.net/qq_43528771/article/details/107949010)
-  - [雪之梦](https://blog.snowdreams1006.cn/)
+  - 书签
+    - [网络收藏夹](馀事/书签/网络收藏夹.md)
+  - 博客主题
+    - [Gitbook主题](馀事/theme/Gitbook_theme.md)
+    - [Typecho主题](馀事/theme/Handsome_theme.md)
+    - [Discuz主题](馀事/theme/Discuz_theme.md)
+    - [博客搭建指北](馀事/theme/build.md)
